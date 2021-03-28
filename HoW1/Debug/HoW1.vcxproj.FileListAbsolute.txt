@@ -1,0 +1,2 @@
+C:\Users\egiac\source\repos\HoW1\Debug\HoW1.exe
+C:\Users\egiac\source\repos\HoW1\Debug\HoW1.pdb
